@@ -7,13 +7,17 @@ Afterall one question I owe those who at least red until here. _Why do I do this
 Feel free to contact with either simple, hate, love or confused posts / pm's =) you're welcome at anytime
 
 
-### __let's see what will happen next in my little adventure__ 
-
-
-### things I'd like to learn or expand my knowledge on:
+### things I'd like to learn or extend my knowledge in:
     
     -Gentoo Server Install which should be as thin as possible
-      1. Should be reachable through SSH
-      2. Should have dotnetcore 3.1, npm
-      3. Should have Docker installed
-      4. to be continued
+        1. Should be reachable through SSH
+        2. Should have dotnetcore (newest version), npm (same and must not be LTS version)
+        3. Should have Docker installed
+        4. to be continued
+        5. to be continued
+        6. to be continued
+     -Setup the GitHub Repository to run a CI/CD Pipeline each time a feature-branch get's pushed or a merge request is opened
+     -Create an SPA which relies on Blazor WebServer where the SPA is communicating with the WebServer through SignalR
+
+### __let's see what will happen next in my little adventure__ 
+        
